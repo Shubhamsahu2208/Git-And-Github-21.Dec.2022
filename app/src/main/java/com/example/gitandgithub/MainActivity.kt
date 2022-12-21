@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
         // Inflate the menu;
         //
         //Rajesh Bhai Second Commit
-        //
+        //Hello Every One
         //
         //
         // this adds items to the action bar if it is present.
