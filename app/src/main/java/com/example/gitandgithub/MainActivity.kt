@@ -55,6 +55,7 @@ class MainActivity : AppCompatActivity() {
         menuInflater.inflate(R.menu.main, menu)
         return true
         // JAI SHREE RAM
+        //Jai Bhole NAth
     }
 
     override fun onSupportNavigateUp(): Boolean {
