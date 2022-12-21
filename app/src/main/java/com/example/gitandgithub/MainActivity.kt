@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu;
         //
-        // Manoj Bhai  First Commit
+        // Manoj Bhai  Second Commit
         //
         //
         // this adds items to the action bar if it is present.
